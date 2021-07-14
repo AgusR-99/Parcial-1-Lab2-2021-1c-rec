@@ -1,0 +1,4 @@
+La Composición en la POO permite el reutilizamiento de código. Permite que
+las clases adquieran un comportamiento polimórfico, a partir de que las mismas
+contengan instancias de otras clases las cuales implementan la funcionalidad deseada
+(objetos dentro de objetos).
